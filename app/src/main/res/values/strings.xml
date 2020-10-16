@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Youtube Downloader</string>
+    <string name="developer_name" translatable="false">Şevket Büyükdemir</string>
+
+    <string name="enter_progress">Loading</string>
+    <string name="download_title">Download</string>
+    <string name="download_mp3_button">MP3 download</string>
+    <string name="download_cancel_button">Close</string>
+    <string name="error_network_button">Try again.</string>
+    <string name="exit_alert_title">Exit</string>
+    <string name="exit_alert_message">You want to check out?</string>
+    <string name="exit_alert_exit_button">Exit</string>
+    <string name="exit_alert_do_not_exit_button">Go on</string>
+    <string name="error_network_message">Check your Internet connection and try again.</string>
+
+</resources>
